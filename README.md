@@ -14,10 +14,10 @@
 class SullieJen:
     def __init__(self):
         self.name = "SullieJen"
-        self.role = "Security expert"
+        self.role = "Student"
         self.languages = ["Python", "C", "C++", "SQL", "HTML"]
         self.systems = ["Linux"]
-        self.interests = ["Whitehacker","System Programming", "Web Development", "Database Design"]
+        self.interests = ["Security expert","Whitehacker","System Programming", "Web Development", "Database Design"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🚀")
