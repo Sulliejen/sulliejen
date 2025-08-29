@@ -1,4 +1,4 @@
-# 👋 안녕하세요 설린입니다!
+#  안녕하세요 설린입니다!
 
 <div align="center">
   
@@ -17,7 +17,7 @@ class SullieJen:
         self.role = "Security expert"
         self.languages = ["Python", "C", "C++", "SQL", "HTML"]
         self.systems = ["Linux"]
-        self.interests = ["System Programming", "Web Development", "Database Design"]
+        self.interests = ["Whitehacker","System Programming", "Web Development", "Database Design"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🚀")
@@ -57,8 +57,6 @@ me.say_hi()
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulliejen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulliejen&layout=compact&langs_count=8&theme=tokyonight"/>
-
 </div>
 
 ---
