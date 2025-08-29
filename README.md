@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 저는 SullieJe입니다！
+# 👋 안녕하세요 설린입니다!
 
 <div align="center">
   
