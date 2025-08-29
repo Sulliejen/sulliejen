@@ -1,8 +1,8 @@
-# 👋 Hi, I'm SullieJen!
+# 👋 안녕하세요, 저는 SullieJe입니다！
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;System+Programming+Enthusiast;Database+Architect;Linux+Power+User)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=세계최강+씹덕;System+Programming+Enthusiast;Database+Architect;Linux+Power+User)
   
 </div>
 
