@@ -14,7 +14,7 @@
 class SullieJen:
     def __init__(self):
         self.name = "SullieJen"
-        self.role = "Software Developer"
+        self.role = "Security expert"
         self.languages = ["Python", "C", "C++", "SQL", "HTML"]
         self.systems = ["Linux"]
         self.interests = ["System Programming", "Web Development", "Database Design"]
@@ -68,38 +68,6 @@ me.say_hi()
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=sulliejen&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-  
-</div>
-
----
-
-## 💻 What I'm Working On
-
-```c
-#include <stdio.h>
-#include <passion.h>
-
-int main() {
-    printf("🔭 Currently exploring: Advanced C++ concepts\n");
-    printf("🌱 Learning: System architecture & optimization\n");
-    printf("👯 Looking to collaborate on: Open source projects\n");
-    printf("💬 Ask me about: Python, C/C++, Linux, or databases\n");
-    printf("⚡ Fun fact: I debug with printf() and I'm proud of it!\n");
-    
-    return 0;
-}
-```
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sulliejen&repo=awesome-project&theme=tokyonight)](https://github.com/sulliejen/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sulliejen&repo=cool-database&theme=tokyonight)](https://github.com/sulliejen/cool-database)
-
-</div>
 
 ---
 
@@ -109,26 +77,12 @@ int main() {
   
   [![SullieJen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sulliejen&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sulliejen&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/LEGENDSullin?t=LsSgsJGuggbDuv64PR530w&s=09))
 
 </div>
 
