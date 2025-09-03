@@ -1,7 +1,7 @@
 # 🌸
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=🌸프로그래머🌸;System+Programming+Enthusiast;Security+expert;Linux+Power+User)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=🌸상시+환영🌸;System+Programming+Enthusiast;Security+expert;Linux+Power+User)
   
 </div>
 
@@ -57,6 +57,10 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulliejen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
 ---
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sulliejen&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ## 📈 Activity Graph
 
