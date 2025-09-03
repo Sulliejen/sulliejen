@@ -58,10 +58,6 @@ me.say_hi()
   
 ---
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sulliejen&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
 ## 📈 Activity Graph
 
 <div align="center">
