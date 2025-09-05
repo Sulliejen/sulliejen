@@ -93,7 +93,8 @@ me.say_hi()
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-  [![애니짤](https://media.giphy.com/media/H8usXcFpOuodG/giphy.gif)](https://media.giphy.com/media/H8usXcFpOuodG/giphy.gif)
+  [![애니짤](https://media.giphy.com/media/H8usXcFpOuodG/giphy.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN5YnM0bHg2OGQ5cXZiczgwcG42dmVzdDBzcGpmYnhzdGp4MzJwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC7fYhbA4ociQ/giphy.gif)
+  
   
   ⭐️ From [SullieJen](https://github.com/sulliejen)
   
