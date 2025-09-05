@@ -92,6 +92,8 @@ me.say_hi()
   ---
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+  [![애니짤](https://media.giphy.com/media/abc123/giphy.gif)](https://media.giphy.com/media/H8usXcFpOuodG/giphy.gif)
   
   ⭐️ From [SullieJen](https://github.com/sulliejen)
   
