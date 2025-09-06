@@ -91,7 +91,7 @@ me.say_hi()
   
   ---
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <a href="https://giphy.com/gifs/fTn01fiFdTd5pL60ln">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3lta3BmZXFtMHRsZTB1M3RiYjZocHZxaWxoMWhmOGV4Z3VydXAwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTn01fiFdTd5pL60ln/giphy.gif" width="300"/>
