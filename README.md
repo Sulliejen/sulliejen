@@ -91,23 +91,17 @@ me.say_hi()
   
   ---
   
-<table>
-  <tr>
-    <td>
-      <a href="https://giphy.com/gifs/mj4ruS6mHkdKEdmwc1">
-        <img src="https://media4.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" width="200"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://giphy.com/gifs/FUiiYLehSA2b8tiEVv">
-        <img src="https://media2.giphy.com/media/FUiiYLehSA2b8tiEVv/giphy.gif" width="200"/>
-      </a>
-    </td>
-    <td>
-      ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-    </td>
-  </tr>
-</table>
+<div style="display:flex; align-items:center; gap:10px; background-color:#1e1e2f; padding:10px; border-radius:15px;">
+  <a href="https://giphy.com/gifs/mj4ruS6mHkdKEdmwc1">
+    <img src="https://media4.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" width="120" style="border-radius:10px;"/>
+  </a>
+  <a href="https://giphy.com/gifs/FUiiYLehSA2b8tiEVv">
+    <img src="https://media2.giphy.com/media/FUiiYLehSA2b8tiEVv/giphy.gif" width="120" style="border-radius:10px;"/>
+  </a>
+  <div>
+    ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  </div>
+</div>
    
   ⭐️ From [SullieJen](https://github.com/sulliejen)
   
