@@ -93,8 +93,8 @@ me.say_hi()
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<a href="https://giphy.com/gifs/MC7fYhbA4ociQ">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN5YnM0bHg2OGQ5cXZiczgwcG42dmVzdDBzcGpmYnhzdGp4MzJwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC7fYhbA4ociQ/giphy.gif" width="300"/>
+<a href="https://giphy.com/gifs/54FJ4vYPrD9VD9N7WB">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydms3eWhnOGtxNHRwaHAxbGN1ZGxwdzZkb2ppZHk4cXlsczdlcHhqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/54FJ4vYPrD9VD9N7WB/giphy.gif" width="300"/>
 </a>
    
   ⭐️ From [SullieJen](https://github.com/sulliejen)
