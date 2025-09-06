@@ -91,14 +91,11 @@ me.say_hi()
   
   ---
   
-<div style="position:relative; display:inline-block;">
-  <a href="https://giphy.com/gifs/mj4ruS6mHkdKEdmwc1">
-    <img src="https://media4.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" width="200" style="border-radius:10px;"/>
-  </a>
-  <span style="position:absolute; bottom:5px; left:5px; color:white; background:black; padding:2px 5px; border-radius:5px; font-size:12px;">
-    GIF 1
-  </span>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<a href="https://giphy.com/gifs/FUiiYLehSA2b8tiEVv">
+  <img src="https://media2.giphy.com/media/FUiiYLehSA2b8tiEVv/giphy.gif?cid=ecf05e47sdp5px6z8ebl05bnrmqkqurtn9t4k56j2u4bzfh1&rid=giphy.gif&ct=g" width="300"/>
+</a>
    
   ⭐️ From [SullieJen](https://github.com/sulliejen)
   
