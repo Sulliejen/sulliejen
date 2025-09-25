@@ -88,7 +88,7 @@ me.say_hi()
   
   ### 💭 Quote of the Day
   
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  *"덴지 너는 말이야, 시골 쥐랑 도시 쥐 중에, 뭐가 더 좋아?"* - レゼ(Reze)
   
   ---
   
