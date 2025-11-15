@@ -1,4 +1,4 @@
-# レゼ:Reze
+# 「落葉隨風 亦有歸處 心若明鏡 則迷途自正」
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=🌸レゼ+:+Reze🌸;System+Programming+Enthusiast;Security+expert;Linux+Power+User)
