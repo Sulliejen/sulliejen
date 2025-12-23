@@ -13,7 +13,7 @@ class SullieJen:
     def __init__(self):
         self.name = "SullieJen"
         self.role = "Student"
-        self.dream girl = {"レゼ"}
+        self.MBTI = "INTP"
         self.languages = ["Python", "C", "C++", "SQL", "HTML"]
         self.systems = ["Linux"]
         self.interests = ["Security expert","Whitehacker","System Programming", "Web Development", "Database Design"]
