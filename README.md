@@ -48,30 +48,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulliejen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sulliejen&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  [![SullieJen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sulliejen&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 📫 Let's Connect!
 
