@@ -46,17 +46,6 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
-
-</div>
-
 ---
   
 ---
@@ -78,4 +67,10 @@ me.say_hi()
    
   ⭐️ From [SullieJen](https://github.com/sulliejen)
   
+</div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
+
 </div>
