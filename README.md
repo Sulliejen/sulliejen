@@ -24,7 +24,6 @@ class SullieJen:
 me = SullieJen()
 me.say_hi()
 ```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -48,6 +47,8 @@ me.say_hi()
 
 </div>
 
+---
+---
 
 ## 📫 Let's Connect!
 
@@ -57,8 +58,9 @@ me.say_hi()
 
 </div>
 
+---
+---
 
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <a href="https://giphy.com/gifs/7sQcUntHVodrmyXRW0">
