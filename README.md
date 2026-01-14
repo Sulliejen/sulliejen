@@ -64,7 +64,7 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
-⭐️ From [SullieJen](https://github.com/sulliejen)
+  ⭐️ From [SullieJen](https://github.com/sulliejen)
   
 </div>
 
