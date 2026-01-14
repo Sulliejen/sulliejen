@@ -50,19 +50,27 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Overview
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sulliejen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img src="https://metrics.lecoq.io/sulliejen
+    ?template=classic
+    &base.header=0
+    &base.activity=1
+    &base.community=0
+    &base.repositories=0
+    &isocalendar=1
+    &isocalendar.duration=half-year
+    &languages=0
+    &followup=0
+    &activity=1
+    &activity.limit=5
+    &activity.days=14
+    &activity.filter=all
+    &activity.visibility=all
+    &config.timezone=Asia/Seoul" />
 </div>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sulliejen&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
