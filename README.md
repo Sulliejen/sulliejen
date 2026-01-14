@@ -50,11 +50,19 @@ me.say_hi()
 
 ---
 
-## 📊 Contribution Overview
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/sulliejen?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&config.timezone=Asia/Seoul&config.theme=dark" />
-</div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulliejen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sulliejen&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ---
 
