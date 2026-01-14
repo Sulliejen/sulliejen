@@ -53,24 +53,8 @@ me.say_hi()
 ## 📊 Contribution Overview
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/sulliejen
-    ?template=classic
-    &base.header=0
-    &base.activity=1
-    &base.community=0
-    &base.repositories=0
-    &isocalendar=1
-    &isocalendar.duration=half-year
-    &languages=0
-    &followup=0
-    &activity=1
-    &activity.limit=5
-    &activity.days=14
-    &activity.filter=all
-    &activity.visibility=all
-    &config.timezone=Asia/Seoul" />
+  <img src="https://metrics.lecoq.io/sulliejen?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&isocalendar=1&isocalendar.duration=half-year&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&config.timezone=Asia/Seoul&config.theme=dark" />
 </div>
-
 
 ---
 
