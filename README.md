@@ -1,43 +1,3 @@
-<!-- 🌸 Sakura Animated Header -->
-<div align="center">
-
-<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="sakuraGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFD1DC"/>
-      <stop offset="50%" stop-color="#FFB7C5"/>
-      <stop offset="100%" stop-color="#FADADD"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="180" fill="#0d1117"/>
-
-  <!-- Falling petals -->
-  <g fill="#FFB7C5" opacity="0.8">
-    <circle cx="200" cy="-10" r="4">
-      <animateTransform attributeName="transform" type="translate"
-        from="0 0" to="100 220" dur="12s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="600" cy="-20" r="3">
-      <animateTransform attributeName="transform" type="translate"
-        from="0 0" to="-80 240" dur="14s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="950" cy="-15" r="5">
-      <animateTransform attributeName="transform" type="translate"
-        from="0 0" to="60 230" dur="16s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <text x="50%" y="50%" text-anchor="middle" fill="url(#sakuraGrad)"
-        font-size="34" font-family="Fira Code, monospace" font-weight="600">
-    System Programming · Security · Linux
-  </text>
-</svg>
-
-</div>
-
----
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=System+Programming+Enthusiast;Security+expert;Linux+Power+User)
@@ -56,16 +16,88 @@ class SullieJen:
         self.MBTI = "INTP"
         self.languages = ["Python", "C", "C++", "SQL", "HTML"]
         self.systems = ["Linux"]
-        self.interests = [
-            "System-level Security",
-            "White Hat Hacking",
-            "Low-level Programming",
-            "Secure Web Architecture",
-            "Database Design with Integrity"
-        ]
-
-    def philosophy(self):
-        return "Understanding how systems break is the first step to securing them."
+        self.interests = ["Security expert","Whitehacker","System Programming", "Web Development", "Database Design"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
 me = SullieJen()
-print(me.philosophy())
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Database & Systems
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulliejen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sulliejen&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+  [![SullieJen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sulliejen&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 Quote of the Day
+
+  *"「落葉隨風 亦有歸處 心若明鏡 則迷途自正」"*
+
+  
+  ---
+  
+![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<a href="https://giphy.com/gifs/7sQcUntHVodrmyXRW0">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQyc3QxMzR0b2RpdHI1MjAyMmNiNDhrMnM5ZTduNnc1eGlrMnA1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="400"/>
+</a>
+   
+  ⭐️ From [SullieJen](https://github.com/sulliejen)
+  
+</div>
