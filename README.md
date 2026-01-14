@@ -64,12 +64,12 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
-  ⭐️ From [SullieJen](https://github.com/sulliejen)
-  
-</div>
-
-  <div align="center">
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
 
+</div>
+
+  ⭐️ From [SullieJen](https://github.com/sulliejen)
+  
 </div>
