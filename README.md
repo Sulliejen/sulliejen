@@ -57,16 +57,7 @@ me.say_hi()
 
 </div>
 
----
 
-<div align="center">
-  
-  ### 💭 Quote of the Day
-
-  *"「落葉隨風 亦有歸處 心若明鏡 則迷途自正」"*
-
-  
-  ---
   
 ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
