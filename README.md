@@ -48,7 +48,6 @@ me.say_hi()
 </div>
 
 ---
----
 
 ## 📫 Let's Connect!
 
@@ -57,9 +56,6 @@ me.say_hi()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
 
 </div>
-
----
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
