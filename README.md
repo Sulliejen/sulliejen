@@ -120,7 +120,7 @@ me.say_hi()
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQyc3QxMzR0b2RpdHI1MjAyMmNiNDhrMnM5ZTduNnc1eGlrMnA1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="400"/>
 </a>
 
-[Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 <div align="center">
