@@ -90,16 +90,7 @@ me.say_hi()
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 💭 이번달의 명언
-
-  *"「느린 것을 두려워하지 말고, 멈추는 것을 두려워하라.」"*
-  
-  ---
-  
-  ### 🎯 Focus Areas
+###😇 Focus Areas
 ```mermaid
   mindmap
     root((SullieJen))
@@ -123,6 +114,14 @@ me.say_hi()
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQyc3QxMzR0b2RpdHI1MjAyMmNiNDhrMnM5ZTduNnc1eGlrMnA1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="400"/>
 </a>
 
+---
+
+<div align="center">
+  
+  ### 💭 눈호강 명언
+
+  *"「느린 것을 두려워하지 말고, 멈추는 것을 두려워하라.」"*
+  
 ---
 
 ### 📫 Connect With Me
