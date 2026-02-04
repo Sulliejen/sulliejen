@@ -85,10 +85,6 @@ me.say_hi()
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Security & Network
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
 </div>
 
 ---
@@ -139,7 +135,7 @@ me.say_hi()
 ---
 
 <!-- 벚꽃 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:FFF5F7,100:FFE5EC&height=220&section=footer&text=Thanks%20for%20visiting!%20🌸&fontSize=50&fontColor=FF1493&animation=twinkling&fontAlignY=70&desc=Have%20a%20wonderful%20day!&descSize=20&descAlignY=90&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:FFF5F7,100:FFE5EC&height=220&section=footer&text=Thanks%20for%20visiting!%20🌸
 
   ⭐️ From [SullieJen](https://github.com/sulliejen)
 
