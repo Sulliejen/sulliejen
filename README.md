@@ -7,21 +7,16 @@
 ---
 
 ## 🚀 About Me
+
 ```python
 class SullieJen:
     def __init__(self):
         self.name = "SullieJen"
-        self.role = "Student & Developer"
+        self.role = "Student"
         self.MBTI = "ISFP"
-        self.languages = ["Python", "C", "C++", "SQL", "HTML", "JavaScript"]
+        self.languages = ["Python", "C", "C++", "SQL", "HTML",""JavaScript""]
         self.systems = ["Linux"]
-        self.interests = [
-            "Security Expert",
-            "White Hacker",
-            "System Programming", 
-            "Web Development", 
-            "Database Design"
-        ]
+        self.interests = ["Security expert","Whitehacker","System Programming", "Web Development", "Database Design"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🚀")
