@@ -1,3 +1,11 @@
+<!-- 단순한 웨이브 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:5865F2&height=120&section=footer" width="100%"/>
+
+<!-- 투명한 웨이브 -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=footer&text=See%20you%20soon!&fontSize=30" width="100%"/>
+
+---
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=System+Programming+Enthusiast;Security+expert;Linux+Power+User)
