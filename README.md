@@ -107,35 +107,30 @@ me.say_hi()
 ```
   
 ---
-  
-<a href="https://giphy.com/gifs/7sQcUntHVodrmyXRW0">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQyc3QxMzR0b2RpdHI1MjAyMmNiNDhrMnM5ZTduNnc1eGlrMnA1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="400"/>
-</a>
 
----
-
-<div align="center">
+  <div align="center">
   
   ### 💭 눈호강 명언
 
   *"「느린 것을 두려워하지 말고, 멈추는 것을 두려워하라.」"*
-  
+
 ---
 
-### 📫 Connect With Me
+<a href="https://giphy.com/gifs/7sQcUntHVodrmyXRW0">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQyc3QxMzR0b2RpdHI1MjAyMmNiNDhrMnM5ZTduNnc1eGlrMnA1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="400"/>
+</a>
 
+[Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
 
 </div>
 
----
-
   ⭐️ From [SullieJen](https://github.com/sulliejen)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
+  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:5865F2&height=120&section=footer" width="100%"/>
