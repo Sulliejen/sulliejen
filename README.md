@@ -88,7 +88,7 @@ me.say_hi()
 </div>
 
 ---
-## 😇 Focus Areas
+## 😇 Focus Areas(pc로 보세요)
 ```mermaid
   mindmap
     root((SullieJen))
