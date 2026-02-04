@@ -14,7 +14,7 @@ class SullieJen:
         self.name = "SullieJen"
         self.role = "Student"
         self.MBTI = "ISFP"
-        self.languages = ["Python", "C", "C++", "SQL", "HTML",""JavaScript""]
+        self.languages = ["Python", "C", "C++", "SQL", "HTML","JavaScript"]
         self.systems = ["Linux"]
         self.interests = ["Security expert","Whitehacker","System Programming", "Web Development", "Database Design"]
         
