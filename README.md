@@ -1,5 +1,6 @@
-<!-- 단순한 웨이브 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:5865F2&height=120&section=footer" width="100%"/>
+<!-- 벚꽃 효과 -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,1,2,12&height=200&section=footer&text=Thanks%20for%20visiting%20🌸&fontSize=50&fontColor=fff&rotate=8&fontAlignY=30" width="100%"/>
+```
 
 <div align="center">
   
