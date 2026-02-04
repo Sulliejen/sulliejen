@@ -126,9 +126,7 @@ me.say_hi()
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sulliejen)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
+[![Discord](https://img.shields.io/badge/Discord-_sullin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_sullin)
 </div>
 
 ---
@@ -136,8 +134,6 @@ me.say_hi()
   ⭐️ From [SullieJen](https://github.com/sulliejen)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:FFF5F7,100:FFE5EC&height=220&section=footer&text=Thanks%20for%20visiting!%20🌸&fontSize=50&fontColor=FF1493&animation=twinkling&fontAlignY=70&desc=Have%20a%20wonderful%20day!&descSize=20&descAlignY=90&descAlign=50" width="100%"/>
 
 </div>
 
