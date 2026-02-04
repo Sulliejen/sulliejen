@@ -89,7 +89,7 @@ me.say_hi()
 </div>
 
 ---
-###😇 Focus Areas
+## 😇 Focus Areas
 ```mermaid
   mindmap
     root((SullieJen))
