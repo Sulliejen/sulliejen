@@ -16,6 +16,7 @@ class SullieJen:
         self.name = "SullieJen"
         self.role = "Student"
         self.MBTI = "ISFP"
+        self.discord = "_sullin"
         self.languages = ["Python", "C", "C++", "SQL", "HTML","JavaScript"]
         self.systems = ["Linux"]
         self.interests = ["Security expert","Whitehacker","System Programming", "Web Development", "Database Design"]
@@ -126,7 +127,7 @@ me.say_hi()
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legendliqp123@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-_sullin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_sullin)
+
 </div>
 
 ---
