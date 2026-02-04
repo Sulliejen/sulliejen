@@ -96,30 +96,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulliejen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulliejen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulliejen&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=sulliejen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 <div align="center">
   
   ### 💭 이번달의 명언
