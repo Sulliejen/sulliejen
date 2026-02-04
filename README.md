@@ -1,5 +1,5 @@
-<!--소프트 벚꽃-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:FFF5F7,100:FFE5EC&height=220&section=footer&text=Thanks%20for%20visiting!%20🌸&fontSize=50&fontColor=FF1493&animation=twinkling&fontAlignY=70&desc=Have%20a%20wonderful%20day!&descSize=20&descAlignY=90&descAlign=50" width="100%"/>
+<!-- 웨이브 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:5865F2&height=120&section=footer" width="100%"/>
 
 <div align="center">
   
@@ -138,7 +138,8 @@ me.say_hi()
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<!-- 벚꽃 효과 -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,1,2,12&height=200&section=footer&text=Thanks%30for%25visiting%20🌸&fontSize=50&fontColor=fff&rotate=8&fontAlignY=30" width="100%"/>
 
   ⭐️ From [SullieJen](https://github.com/sulliejen)
 
