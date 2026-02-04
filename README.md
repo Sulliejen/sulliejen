@@ -137,8 +137,8 @@ me.say_hi()
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sulliejen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:FFF5F7,100:FFE5EC&height=220&section=footer&text=Thanks%20for%20visiting!%20🌸&fontSize=50&fontColor=FF1493&animation=twinkling&fontAlignY=70&desc=Have%20a%20wonderful%20day!&descSize=20&descAlignY=90&descAlign=50" width="100%"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:5865F2&height=120&section=footer" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,50:FFF5F7,100:FFE5EC&height=220&section=footer&text=Thanks%20for%20visiting!%20🌸&fontSize=50&fontColor=FF1493&animation=twinkling&fontAlignY=70&desc=Have%20a%20wonderful%20day!&descSize=20&descAlignY=90&descAlign=50" width="100%"/>
